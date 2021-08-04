@@ -1,0 +1,15 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+  text-align: center;
+}
+
+body
+{
+background-image: linear-gradient(to right top, cyan, rgb(156, 233, 156));
+}
+img{
+  height: 400px;
+  width: 350px;
+}
